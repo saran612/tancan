@@ -84,7 +84,7 @@ body{
     flex-direction: column;
     gap: 10px;
     height: 250px;
-    width: 250px;
+    width: 220px;
     border-radius: 10px;
     background-color: #3333;
     overflow: hidden;
@@ -92,7 +92,7 @@ body{
 }
 .content_img1,.content_img2,.content_img3,.content_img4,.content_img5,.content_img6,.content_img7,.content_img8,.content_img9,.content_img10{
     height: 200px;
-    width: 200px;
+    width: 180px;
     border-radius: 10px;
     background-color: #3333;
 }
@@ -155,4 +155,8 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+.link{
+    color: black;
+    text-decoration: none;
 }
